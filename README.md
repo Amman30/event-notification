@@ -59,6 +59,9 @@ docker-compose down
 ### Mermaid Chart
 ##### Access the ER Diagram on <a href="https://mermaid.live/edit#pako:eNqNUMGKwjAQ_ZUw5yqxTW3NbXEViqALW_aw9BLMWAM2LWmyrNb--6bqrqCXHXJ5M-_Nm5cOtrVE4IDmVYnSiKrQxNfiY7HO30l3RUM5pyTx721177XWKF0Sq-wBn7oS261RjVW1vs-sqrC1omrsiUhhMff4Ou2LG229ybNlNn_Js836vxf4pa0o8YGLX6htJsly9WBxS3c-j0Z192DISQF70ZJK6GMBhYYASqMkcGscBlChqcQA4XJZAXaPPgIMMok74Q52UPVe1gj9WdfVr9LUrtwD34lD65Frhvi3P_-joJZo5rXTFjibXlYA7-AbeJjOxjSMGJ2xaUSTiMUBHIHHdJxMw2QSsSiJEhomfQCniykdp5N4FrFJTJmnJ2na_wAXAJI8">Mermaid</a> 
 
+<img width="542" height="565" alt="Screenshot 2025-10-03 at 1 56 01 PM" src="https://github.com/user-attachments/assets/a93c6d25-51cb-4baf-b011-23173d028be0" />
+
+
 
 ### If I had more time, I would
 -Make the notification service async using a message queue like RabbitMQ or Kafka
